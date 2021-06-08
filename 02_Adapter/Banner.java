@@ -4,7 +4,7 @@ public class Banner {
 		this.string = string;
 	}
 	public void showWithParen() {
-		System.out.println("*" + string + "*");
+		System.out.println("(" + string + ")");
 	}
 	public void showWithAster() {
 		System.out.println("*" + string + "*");
